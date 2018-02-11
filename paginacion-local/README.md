@@ -1,18 +1,14 @@
 # paginacion-local
 
-> Compo paginar datos localmente
+> Como paginar datos localmente con Vue.js y bootstrap 4. Lee el artículo completo aquí : https://oddbytes.net/vue-js/paginar-datos-cliente-con-vuejs-bootstrap-4/
 
-## Build Setup
+## Tras descargar
 
 ``` bash
-# install dependencies
+# instalar dependencias
 npm install
 
-# serve with hot reload at localhost:8080
+# servir con recarga en caliente en localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
